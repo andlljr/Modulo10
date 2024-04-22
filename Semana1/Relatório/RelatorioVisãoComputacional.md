@@ -55,11 +55,11 @@ A segmentação pode ser aplicada em diversos contextos e indústrias, como demo
 
 Na imagem sem segmentação abaixo:
 
-![Imagem sem segmentação](teste2.jpeg)
+![Imagem sem segmentação](teste3.jpeg)
 
 E na imagem segmentada a seguir:
 
-![Imagem segmentada](teste3.jpeg)
+![Imagem segmentada](teste2.jpeg)
 
 É perceptível que na primeira imagem não há separação entre o fundo e o elemento principal, que é a mão. Na segunda imagem, porém, é possível editar o elemento mão separadamente do fundo. A parte segmentada é destacada em vermelho, permitindo não apenas a edição do elemento principal, mas também a alteração do plano de fundo. Assim, é possível identificar dois segmentos diferentes em uma única foto: o elemento e o fundo.
 
