@@ -59,7 +59,7 @@ Na imagem sem segmentação abaixo:
 
 E na imagem segmentada a seguir:
 
-![Imagem segmentada](teste2.jpeg)
+![Imagem segmentada](teste3.jpeg)
 
 É perceptível que na primeira imagem não há separação entre o fundo e o elemento principal, que é a mão. Na segunda imagem, porém, é possível editar o elemento mão separadamente do fundo. A parte segmentada é destacada em vermelho, permitindo não apenas a edição do elemento principal, mas também a alteração do plano de fundo. Assim, é possível identificar dois segmentos diferentes em uma única foto: o elemento e o fundo.
 
