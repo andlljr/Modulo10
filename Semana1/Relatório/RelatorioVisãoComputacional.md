@@ -18,19 +18,17 @@ Uma ampla gama de produtos e serviços incorpora tecnologias de classificação 
 
 - Google Photos: O Google Photos utiliza algoritmos avançados de classificação de imagem para organizar automaticamente fotos com base em diferentes categorias, como pessoas, lugares, objetos e eventos.
 
-- Amazon Rekognition: A Amazon oferece o serviço Rekognition, que utiliza inteligência artificial para análise de imagens e vídeos. Ele pode ser usado para identificar objetos, pessoas, texto, cenas e atividades em imagens e vídeos.
-
 - Adobe Sensei: A plataforma Adobe Sensei incorpora recursos avançados de inteligência artificial, incluindo classificação de imagem, para ajudar os usuários a organizar e gerenciar suas bibliotecas de mídia, como o Adobe Lightroom e o Adobe Stock.
   
 - Pinterest: O Pinterest utiliza algoritmos de classificação de imagem para fornecer recomendações personalizadas de conteúdo com base nas preferências e interesses dos usuários, analisando o conteúdo das imagens que eles salvam ou interagem na plataforma.
 
 - Clarifai: A Clarifai oferece uma plataforma de inteligência artificial que inclui recursos de classificação de imagem. Sua API permite que desenvolvedores incorporem facilmente recursos de visão computacional em seus aplicativos e serviços para reconhecimento de objetos, detecção de conceitos e classificação de imagens.
 
-#### Teste
+#### Teste Classificação
 
 Para a elaboração deste relatório, utilizei a ferramenta Google Photos para compreender o potencial da visão computacional e a tarefa de classificação de imagens. Essa ferramenta é altamente útil para a organização de fotos. Um exemplo prático é o seu uso por influenciadores digitais no Instagram. Muitas vezes, é necessário participar das tendências nos stories, pois isso proporciona maior visibilidade para um determinado conteúdo. Através do Google Photos, uma imagem pode ser facilmente localizada.
 
-![Pizza ou flor](teste1)
+![Pizza ou flor](teste1.jpeg)
 
 Na figura acima, observa-se que o Google Photos classifica as imagens. Assim, se a imagem for de uma flor, ela será categorizada como tal, enquanto a de pizza será colocada em outra categoria. Isso facilita a organização e o acesso às fotos. Por exemplo, a imagem da flor foi capturada em 2022, enquanto a da pizza em 2020. Seria muito trabalhoso percorrer aproximadamente 1000 imagens para encontrá-las, evidenciando o potencial da classificação.
 
@@ -40,7 +38,32 @@ A segmentação de imagens é uma técnica avançada no processamento de imagens
 
 #### Produto
 
-#### Teste
+A segmentação de imagem é uma técnica essencial em diversas aplicações, permitindo a identificação e separação de regiões de interesse em uma imagem. Aqui estão cinco produtos no mercado que fazem uso da segmentação de imagem:
+
+- Adobe Photoshop: O software Adobe Photoshop oferece uma ampla gama de ferramentas avançadas de segmentação de imagem, permitindo que os usuários isolem e editem áreas específicas de uma imagem de forma precisa e eficiente.
+
+- Tesla Autopilot: Os veículos Tesla equipados com o sistema Autopilot utilizam a segmentação de imagem para identificar e segmentar diferentes elementos do ambiente ao redor do carro, como pedestres, veículos, sinais de trânsito e obstáculos, contribuindo para a condução autônoma.
+
+- Facebook: A plataforma Facebook utiliza a segmentação de imagem em seu algoritmo de reconhecimento facial para identificar e segmentar rostos em fotos carregadas pelos usuários, oferecendo recursos de marcação e organização automática de fotos.
+
+- Google Maps: O Google Maps faz uso da segmentação de imagem para identificar e destacar áreas de interesse, como estradas, edifícios, parques e corpos d'água, proporcionando uma experiência de mapeamento mais informativa e detalhada.
+
+
+#### Teste Segmentação
+
+A segmentação pode ser aplicada em diversos contextos e indústrias, como demonstrado anteriormente. Enquanto no Photoshop é possível utilizar essa ferramenta explicitamente, a segmentação no Google Maps ocorre de forma interna, sem que o usuário tenha conhecimento. Para testar o produto, utilizamos o Photoshop. Com essa ferramenta, podemos realizar montagens selecionando partes importantes da imagem e inserindo-as em outros contextos.
+
+Na imagem sem segmentação abaixo:
+
+![Imagem sem segmentação](teste2.jpeg)
+
+E na imagem segmentada a seguir:
+
+![Imagem segmentada](teste2.jpeg)
+
+É perceptível que na primeira imagem não há separação entre o fundo e o elemento principal, que é a mão. Na segunda imagem, porém, é possível editar o elemento mão separadamente do fundo. A parte segmentada é destacada em vermelho, permitindo não apenas a edição do elemento principal, mas também a alteração do plano de fundo. Assim, é possível identificar dois segmentos diferentes em uma única foto: o elemento e o fundo.
+
 
 ## Conclusão
 
+As tarefas de processamento de imagem desempenham um papel crucial em uma variedade de campos, desde medicina e segurança até design gráfico e robótica. Os produtos comerciais disponíveis oferecem uma ampla gama de ferramentas e recursos para atender às necessidades de diferentes segmentos de mercado, demonstrando a importância contínua do processamento de imagem na era digital. Além disso, é relevante observar que uma mesma aplicação, como armazenamento de fotos, pode realizar uma variedade de tarefas. Por exemplo, o Google Photos não só classifica imagens, mas também identifica objetos. Em uma foto com várias pessoas, ele consegue identificar cada indivíduo presente, permitindo que o usuário organize e categorize a imagem de acordo.
