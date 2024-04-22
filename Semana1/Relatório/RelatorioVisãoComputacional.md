@@ -6,5 +6,17 @@ O processamento de imagem é uma área fundamental em ciência da computação e
 
 ## Desenvolvimento
 
+### Classificação
+
+#### Produto
+
+#### Teste
+
+### Segementação
+
+#### Produto
+
+#### Teste
+
 ## Conclusão
 
