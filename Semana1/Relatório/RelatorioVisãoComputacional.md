@@ -12,7 +12,7 @@ Embora ambas as tarefas estejam envolvidas no processamento de imagem, cada uma 
 
 A classificação de imagens desempenha um papel fundamental no processamento de imagens, sendo essencial para uma ampla gama de aplicações. Nesse contexto, os modelos de classificação de imagens são treinados para atribuir rótulos ou tags a imagens inteiras, o que permite a categorização e identificação automática do conteúdo das imagens. Ao elaborar um modelo de classificação de imagens, o desenvolvedor enfrenta o desafio de determinar as classes ou categorias relevantes para o domínio específico da aplicação. Por exemplo, em um sistema de reconhecimento de flores, é necessário definir as diferentes espécies de flores que o modelo deve ser capaz de identificar. Além disso, o modelo pode ser treinado para distinguir entre classes diferentes de objetos, como flores e árvores, permitindo uma classificação mais precisa e abrangente do conteúdo das imagens. Assim, a classificação de imagens não apenas facilita a organização e recuperação de grandes conjuntos de dados visuais, mas também desempenha um papel crucial em diversas áreas, incluindo visão computacional, reconhecimento de padrões, diagnóstico médico assistido por computador, entre outros.
 
-#### Produto
+#### Produtos
 
 Uma ampla gama de produtos e serviços incorpora tecnologias de classificação de imagem para melhorar a experiência do usuário, aumentar a eficiência e oferecer funcionalidades inovadoras. A seguir, destacaremos cinco exemplos notáveis de produtos no mercado que fazem uso dessa tecnologia avançada para oferecer soluções diversas e impactantes:
 
@@ -23,6 +23,16 @@ Uma ampla gama de produtos e serviços incorpora tecnologias de classificação 
 - Pinterest: O Pinterest utiliza algoritmos de classificação de imagem para fornecer recomendações personalizadas de conteúdo com base nas preferências e interesses dos usuários, analisando o conteúdo das imagens que eles salvam ou interagem na plataforma.
 
 - Clarifai: A Clarifai oferece uma plataforma de inteligência artificial que inclui recursos de classificação de imagem. Sua API permite que desenvolvedores incorporem facilmente recursos de visão computacional em seus aplicativos e serviços para reconhecimento de objetos, detecção de conceitos e classificação de imagens.
+
+#### Segmentos
+
+- Google Photos: Tecnologia de armazenamento e organização de fotos e vídeos.
+  
+- Adobe Sensei: Tecnologia de inteligência artificial e análise de dados para soluções criativas e de mídia.
+  
+- Pinterest: Rede social e plataforma de descoberta visual.
+  
+- Clarifai: Desenvolvimento e fornecimento de soluções de visão computacional e inteligência artificial.
 
 #### Teste Classificação
 
@@ -36,7 +46,7 @@ Na figura acima, observa-se que o Google Photos classifica as imagens. Assim, se
 
 A segmentação de imagens é uma técnica avançada no processamento de imagens, onde o objetivo é dividir uma imagem em regiões ou objetos de interesse. Diferentemente da classificação, que atribui um rótulo a toda a imagem, a segmentação atribui um rótulo a cada pixel na imagem, indicando a que objeto ou região ele pertence. Essa técnica é amplamente utilizada em áreas como visão computacional, medicina e monitoramento ambiental.
 
-#### Produto
+#### Produtos
 
 A segmentação de imagem é uma técnica essencial em diversas aplicações, permitindo a identificação e separação de regiões de interesse em uma imagem. Aqui estão cinco produtos no mercado que fazem uso da segmentação de imagem:
 
@@ -48,6 +58,15 @@ A segmentação de imagem é uma técnica essencial em diversas aplicações, pe
 
 - Google Maps: O Google Maps faz uso da segmentação de imagem para identificar e destacar áreas de interesse, como estradas, edifícios, parques e corpos d'água, proporcionando uma experiência de mapeamento mais informativa e detalhada.
 
+#### Segmentos
+
+- Adobe Photoshop: Desenvolvimento de software para edição de imagens e design gráfico.
+  
+- Tesla Autopilot: Tecnologia de condução autônoma e sistemas de assistência ao motorista para veículos elétricos.
+  
+- Facebook: Rede social e empresa de tecnologia da informação.
+  
+- Google Maps: Serviços de mapeamento, navegação e localização geográfica.
 
 #### Teste Segmentação
 
