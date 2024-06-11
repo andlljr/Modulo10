@@ -20,7 +20,7 @@ Possuindo dois arquivos: Um zip com todas as imagens e um json com os keypoints
 
 O conjunto possui 4608 imagens de animais, tendo 5 labels disponibilizadas para diferentes tipos de animais sendo eles: Cachorro (1), gato(2), ovelha(3), cavalo(4) e bovino(5).
 
-![Amostra de imagem](./amostra.png)
+![Amostra de imagem](./amostras.png)
 
 Na análise exploratória inicial percebe-se que os dados não estão muito bem distribuindo sendo mais de 50% classificados como cachorro e gato.
 
