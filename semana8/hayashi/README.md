@@ -38,7 +38,7 @@ Após essa visualização geral foi filtrados apenas os bovinos para explorar me
 
 Para os tamanhos variados foi aplicado uma normalização deixando todas elas 100x100:
 
-![Imagens novas](./normalizadas.png)
+![Imagens novas](./normalizada.png)
 
 Além disso os keypoints não foram aplicado em todas as imagens bovinas.
 
